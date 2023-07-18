@@ -18,6 +18,14 @@ To mark a task as completed, click on it.
 To delete a task, click on the trash bin icon next to it.
 All changes are automatically saved in LocalStorage.
 
+## Technologies used
+
+- HTML
+- SCSS
+- JavaScript (Jsx)
+- React
+- Vitejs
+
 ## Contributing
 
 You can contribute to the development of this project by following these steps:
