@@ -2,14 +2,6 @@
 
 A simple application for managing tasks (Todo List). It allows you to add tasks with titles and descriptions, mark them as completed, and delete them.
 
-## Installation
-
-Clone this project for yourself.
-
-```bash
-git clone https://github.com/KarasaevM/Todo_List_App.git
-```
-
 ## Usage
 
 Enter the title and description of the task in the respective input fields.
